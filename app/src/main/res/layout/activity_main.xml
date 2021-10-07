@@ -25,6 +25,6 @@
         android:text="SUBMIT"
         android:layout_below="@id/nama_edit_text"
         android:textSize="20sp"
-        android:onClick="submit_btn"
+        android:onClick="submit_btn"/>
 
 </RelativeLayout>
